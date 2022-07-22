@@ -4,6 +4,6 @@ I'm Richard. I upload all my projects here, some of which are half complete. Mos
 
 I am still trying to figure out where exactly my interests lie in the computer science industry, but for now I have a slight preference for systems and low level programming as you might be able to tell.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reigenatk&layout=compact&theme=highcontrast&langs_count=7)](https://github.com/reigenatk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reigenatk&layout=compact&theme=highcontrast&langs_count=8)](https://github.com/reigenatk/github-readme-stats)
 
 Thanks for visiting!
