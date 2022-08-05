@@ -12,4 +12,9 @@ Some projects are unfinished/abandoned, since I either got bored or it was too h
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=reigenatk&show_icons=true&theme=radical)-->
 
-Thanks for visiting!
+Thanks for visiting! 
+
+
+
+
+(kevin pls)
