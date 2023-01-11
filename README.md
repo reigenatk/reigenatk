@@ -2,7 +2,7 @@
 
 I'm Richard. I love to hack on random stuff in my free time, as you can see by my many repositories (some half finished)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reigenatk&layout=compact&theme=highcontrast&langs_count=8&hide=css,scss,html)](https://github.com/reigenatk/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reigenatk&layout=compact&theme=highcontrast&langs_count=8&hide=css,scss,html,shaderlab)](https://github.com/reigenatk/github-readme-stats) 
 
 ![](https://github.com/reigenatk/ghstats/blob/master/generated/overview.svg)
 
