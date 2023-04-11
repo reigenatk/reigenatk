@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Me code things
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reigenatk&layout=compact&theme=highcontrast&langs_count=8&hide=css,scss,html,shaderlab)](https://github.com/reigenatk/github-readme-stats) 
 
